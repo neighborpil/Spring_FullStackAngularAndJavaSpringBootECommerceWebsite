@@ -35,3 +35,9 @@ C:\> tsc --target ES5 filename.ts
 }
 
 ```
+
+#### 타입스크립트 빌드 초기화
+```
+C:> tsc --build --clean
+``
+
