@@ -37,6 +37,7 @@ C:\> tsc --target ES5 filename.ts
 ```
 
 #### 타입스크립트 빌드 초기화
+ - 생성된 js파일을 지워준다
 ```
 C:> tsc --build --clean
 ``
