@@ -59,6 +59,10 @@ C:> tsc --build --clean
  ```
 
 ### Run angular app
+ - default port: 4200
+ - options
+    + --open: 자동으로 웹브라우저를 연다
+    + -- port 5000: 포트 번호를 5000으로 변경한다 
 ```
 > serve
 ```
