@@ -48,14 +48,17 @@ C:> tsc --build --clean
  - Angular command-line tool: http:// cli.angular.io
  
  ```
- > npm install -g @angular/cli
- > ng version
- > ng help
- ```
+> npm install -g @angular/cli
+
+> ng version
+
+> ng help
+
+```
  
  ### Creating a new angular project
  ```
- > ng new my-project-name
+> ng new my-project-name
  ```
 
 ### Run angular app
