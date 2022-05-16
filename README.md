@@ -53,7 +53,12 @@ C:> tsc --build --clean
  > ng help
  ```
  
- ## Creating a new angular project
+ ### Creating a new angular project
  ```
  > ng new my-project-name
  ```
+
+### Run angular app
+```
+> serve
+```
