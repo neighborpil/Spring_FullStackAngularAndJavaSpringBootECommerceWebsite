@@ -23,5 +23,8 @@ class Rectangle extends Shape_1.Shape {
     getInfo() {
         return super.getInfo() + `, width=${this._width},  length=${this._length}`;
     }
+    calculateArea() {
+        return this._width * this._length;
+    }
 }
 exports.Rectangle = Rectangle;
