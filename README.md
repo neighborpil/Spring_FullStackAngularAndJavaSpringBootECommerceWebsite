@@ -69,8 +69,14 @@ C:/> ng new my-project-name
 ```
 C:/> serve
 ```
-### Generating component
+
+### Generating things
+ 1. Component
 ```
 C:/> ng generate component sales-person-list
 ```
-				
+
+ 2. class
+```
+C:\>ng generate class sales-person-list/SalesPerson
+```
