@@ -95,4 +95,8 @@ C:\>ng generate class sales-person-list/SalesPerson
 ![image](https://user-images.githubusercontent.com/22423285/168774339-0367eea3-eef4-46cd-9445-277951ea0828.png)
 
 
+#### ※ Importing exisiting project on Intellij
+ - At the welcome screen press ctrl + shift + A
+ - type "project from existing sources" in search box
+
 
