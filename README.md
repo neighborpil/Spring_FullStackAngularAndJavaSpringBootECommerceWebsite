@@ -69,3 +69,8 @@ C:> tsc --build --clean
 ```
 > serve
 ```
+### Generating component
+```
+> ng generate component sales-person-list
+```
+				
