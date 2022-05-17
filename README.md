@@ -39,7 +39,7 @@ C:\> tsc --target ES5 filename.ts
 #### 타입스크립트 빌드 초기화
  - 생성된 js파일을 지워준다
 ```
-C:> tsc --build --clean
+C:/> tsc --build --clean
 ``
 
 ## Angular Basics
@@ -48,17 +48,17 @@ C:> tsc --build --clean
  - Angular command-line tool: http:// cli.angular.io
  
  ```
-> npm install -g @angular/cli
+C:/> npm install -g @angular/cli
 
-> ng version
+C:/> ng version
 
-> ng help
+C:/> ng help
 
 ```
  
  ### Creating a new angular project
  ```
-> ng new my-project-name
+C:/> ng new my-project-name
  ```
 
 ### Run angular app
@@ -67,10 +67,10 @@ C:> tsc --build --clean
     + --open: 자동으로 웹브라우저를 연다
     + -- port 5000: 포트 번호를 5000으로 변경한다 
 ```
-> serve
+C:/> serve
 ```
 ### Generating component
 ```
-> ng generate component sales-person-list
+C:/> ng generate component sales-person-list
 ```
 				
