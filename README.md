@@ -40,7 +40,7 @@ C:\> tsc --target ES5 filename.ts
  - 생성된 js파일을 지워준다
 ```
 C:/> tsc --build --clean
-``
+```
 
 ## Angular Basics
 
