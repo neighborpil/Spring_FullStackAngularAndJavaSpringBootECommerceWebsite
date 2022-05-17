@@ -91,3 +91,8 @@ C:\>ng generate class sales-person-list/SalesPerson
     + Rest Repositories
     + Mysql Driver
     + Lombok
+
+![image](https://user-images.githubusercontent.com/22423285/168774339-0367eea3-eef4-46cd-9445-277951ea0828.png)
+
+
+
