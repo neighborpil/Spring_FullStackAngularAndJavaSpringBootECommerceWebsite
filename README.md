@@ -80,3 +80,14 @@ C:/> ng generate component sales-person-list
 ```
 C:\>ng generate class sales-person-list/SalesPerson
 ```
+
+
+## ECommerceApp - 1.0
+### download spring initializer
+
+ - https://start.spring.io/
+ - dependencies
+    + Spring Data JPA
+    + Rest Repositories
+    + Mysql Driver
+    + Lombok
