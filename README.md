@@ -100,3 +100,13 @@ C:\>ng generate class sales-person-list/SalesPerson
  - type "project from existing sources" in search box
 
 
+### Create a project
+```
+> ng new angular-ecommerce
+
+> ng generate component components/product-list
+
+> ng generate class common/product
+
+> ng generate service services/product
+```
