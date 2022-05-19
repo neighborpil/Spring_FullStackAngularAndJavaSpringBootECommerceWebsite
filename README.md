@@ -128,3 +128,7 @@ C:\>ng generate class sales-person-list/SalesPerson
 ### ※ Spring JPA query methods documentation
 https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.query-methods.details
 
+
+#### ※ IntelliJ Auto Import Setting
+
+![image](https://user-images.githubusercontent.com/22423285/169420171-f464afb0-99ba-4bda-82c6-422fbd027525.png)
