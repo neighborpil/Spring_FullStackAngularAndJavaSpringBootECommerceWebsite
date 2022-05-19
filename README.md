@@ -67,7 +67,12 @@ C:/> ng new my-project-name
     + --open: 자동으로 웹브라우저를 연다
     + -- port 5000: 포트 번호를 5000으로 변경한다 
 ```
-C:/> serve
+C:/> ng serve
+```
+
+#### ※ 혹시 실행이 안될 경우
+```
+> npm install -g @angular-devkit/build-angular
 ```
 
 ### Generating things
