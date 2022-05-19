@@ -115,3 +115,16 @@ C:\>ng generate class sales-person-list/SalesPerson
 
 > ng generate service services/product
 ```
+
+### install bootstrap and fontawesome
+```
+> npm install bootstrap
+
+> npm audit fix
+
+> npm install @fortawesome/fontawesome-free
+```
+
+### ※ Spring JPA query methods documentation
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.query-methods.details
+
