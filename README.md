@@ -67,7 +67,12 @@ C:/> ng new my-project-name
     + --open: 자동으로 웹브라우저를 연다
     + -- port 5000: 포트 번호를 5000으로 변경한다 
 ```
-C:/> serve
+C:/> ng serve
+```
+
+#### ※ 혹시 실행이 안될 경우
+```
+> npm install -g @angular-devkit/build-angular
 ```
 
 ### Generating things
@@ -99,4 +104,27 @@ C:\>ng generate class sales-person-list/SalesPerson
  - At the welcome screen press ctrl + shift + A
  - type "project from existing sources" in search box
 
+
+### Create a project
+```
+> ng new angular-ecommerce
+
+> ng generate component components/product-list
+
+> ng generate class common/product
+
+> ng generate service services/product
+```
+
+### install bootstrap and fontawesome
+```
+> npm install bootstrap
+
+> npm audit fix
+
+> npm install @fortawesome/fontawesome-free
+```
+
+### ※ Spring JPA query methods documentation
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.query-methods.details
 
