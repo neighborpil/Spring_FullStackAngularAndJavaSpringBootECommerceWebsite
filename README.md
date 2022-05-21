@@ -147,3 +147,9 @@ https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories
  - keyup
  - keydown
  - dblclick
+
+### add components
+```
+> ng generate component components/search
+
+```
