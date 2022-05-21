@@ -132,3 +132,18 @@ https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories
 #### ※ IntelliJ Auto Import Setting
 
 ![image](https://user-images.githubusercontent.com/22423285/169420171-f464afb0-99ba-4bda-82c6-422fbd027525.png)
+
+### add components
+```
+> ng generate class common/product-category
+
+> ng generate component components/product-category-name
+
+```
+
+### events
+ - focus
+ - blur
+ - keyup
+ - keydown
+ - dblclick
