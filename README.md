@@ -152,4 +152,23 @@ https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories
 ```
 > ng generate component components/search
 
+> ng generate component components/ProductDetails
+```
+
+### Pagination
+ - installing libraries
+```
+> ng add @angular/localize
+
+> npm install @ng-bootstrap/ng-bootstrap
+
+```
+
+### angular grammer
+```
+<ngb-pagination [(page}]="thePageNumber"              <-- two way binding
+                [pageSize]="thePageSize               <-- one way binding
+                [collectionSize]="theTotalElements"   <-- one way binding
+                (pageChange)="listProducts()">        <-- event binding
+<ngb-pagination
 ```
